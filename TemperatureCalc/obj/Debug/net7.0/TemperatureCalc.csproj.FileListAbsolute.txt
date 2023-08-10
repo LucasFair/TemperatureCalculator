@@ -1,0 +1,15 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\bin\Debug\net7.0\TemperatureCalc.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\bin\Debug\net7.0\TemperatureCalc.deps.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\bin\Debug\net7.0\TemperatureCalc.runtimeconfig.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\bin\Debug\net7.0\TemperatureCalc.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\bin\Debug\net7.0\TemperatureCalc.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\TemperatureCalc.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\TemperatureCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\TemperatureCalc.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\TemperatureCalc.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\TemperatureCalc.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\TemperatureCalc.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\refint\TemperatureCalc.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\TemperatureCalc.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\TemperatureCalc.genruntimeconfig.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TemperatureCalc\obj\Debug\net7.0\ref\TemperatureCalc.dll
